@@ -1,0 +1,8 @@
+.cardDetalle{
+    box-shadow: 7px 13px 37px #000;
+}
+#container{
+    padding: 30px 0px; 
+    display: flex; 
+    justify-content: center;
+}
